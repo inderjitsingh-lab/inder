@@ -707,14 +707,14 @@ body {
 }
 
 /* Different color bars for each skill */
-.skill-bar[data-skill="90%"] { background-color: #0db5ff; } /* HTML */
-.skill-bar[data-skill="85%"] { background-color: #ff007f; } /* CSS */
-.skill-bar[data-skill="80%"] { background-color: #ffb400; } /* JavaScript */
-.skill-bar[data-skill="75%"] { background-color: #4caf50; } /* React */
-.skill-bar[data-skill="70%"] { background-color: #ff5722; } /* AngularJS */
-.skill-bar[data-skill="65%"] { background-color: #41b883; } /* Vue.js */
-.skill-bar[data-skill="80%"] { background-color: #563d7c; } /* Bootstrap */
-.skill-bar[data-skill="60%"] { background-color: #8e44ad; } /* Node.js */
+.skill-bar[data-skill="100%"] { background-color: #0db5ff; } /* HTML */
+.skill-bar[data-skill="99%"] { background-color: #ff007f; } /* CSS */
+.skill-bar[data-skill="99.5%"] { background-color: #ffb400; } /* JavaScript */
+.skill-bar[data-skill="99.2%"] { background-color: #4caf50; } /* React */
+.skill-bar[data-skill="99.1%"] { background-color: #ff5722; } /* AngularJS */
+.skill-bar[data-skill="99.7%"] { background-color: #41b883; } /* Vue.js */
+.skill-bar[data-skill="99.8%"] { background-color: #563d7c; } /* Bootstrap */
+.skill-bar[data-skill="98.9%"] { background-color: #8e44ad; } /* Node.js */
 
 
 /* Skill Hover Effect */
